@@ -1,0 +1,15 @@
+{
+  "name": "exercises-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape tests.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tape": "^4.6.3"
+  }
+}
