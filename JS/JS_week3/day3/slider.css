@@ -1,0 +1,32 @@
+.container-slider {
+  position: relative;
+}
+
+.holder {
+  width: 300%;
+}
+
+.slide {
+  width: 1200px;
+  height: 400px;
+  float: left;
+  transition: transform 1s ease;
+}
+
+.slide--1 {
+  background-image: url('http://placebeyonce.com/1200-400');
+}
+
+.slide--2 {
+  background-image: url('http://placekitten.com/1200/400');
+}
+
+.slide--3 {
+  background-image: url('http://placebeyonce.com/1200-400');
+}
+
+.slider {
+  overflow: hidden;
+  width: 1200px;
+  height: 400px;
+}
